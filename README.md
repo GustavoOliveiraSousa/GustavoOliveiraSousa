@@ -3,6 +3,7 @@
 - 🌱 Atualmente estou no inicio dos meus estudos na área da programação, mas sigo a todo vapor atrás de aprender coisas novas
 - 💞️ Busco me aperfeiçoar e fazer grander parcerias de networking
 - 📫 Caso tenha interesse em contato{
+- {
 -   LinkedIn: https://www.linkedin.com/in/gustavo-oliveira-de-sousa-g2022/
 -   Facebook: https://www.facebook.com/GsousaO/
 -   Instagram: https://www.instagram.com/gustavosousa2003/
