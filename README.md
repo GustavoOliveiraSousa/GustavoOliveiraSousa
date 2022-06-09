@@ -11,9 +11,14 @@
 -   Facebook: https://www.facebook.com/GsousaO/
 -   Instagram: https://www.instagram.com/gustavosousa2003/
 
-<a href="https://www.linkedin.com/in/gustavo-oliveira-de-sousa-g2022/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height= 100px />
-</a>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/gustavo-oliveira-de-sousa-g2022/" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height= 100px />
+    </a>
+   <li>
+</ul>
+ 
 
 <!---
 GustavoOliveiraSousa/GustavoOliveiraSousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
