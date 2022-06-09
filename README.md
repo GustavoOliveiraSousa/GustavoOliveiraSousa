@@ -11,7 +11,7 @@
 -   Facebook: https://www.facebook.com/GsousaO/
 -   Instagram: https://www.instagram.com/gustavosousa2003/
 
-<a href="https://www.linkedin.com/in/gustavo-oliveira-de-sousa-g2022/ target="_blank">
+<a href="https://www.linkedin.com/in/gustavo-oliveira-de-sousa-g2022/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height= 100px />
 </a>
 
