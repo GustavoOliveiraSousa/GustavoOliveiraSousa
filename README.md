@@ -1,13 +1,13 @@
 ## Bem vindo ao meu perfil GitHub 👋
 ## Hello! Welcome to my Github profile.
 
-👋 Olá, me chamo é Gustavo Oliveira de Sousa
+👋 Olá, me chamo Gustavo Oliveira de Sousa
 
 👀 Sou um calouro entusiasta em computação, desenvolvimento e tudo que é da área de TI
 
-🌱 Atualmente estou no inicio dos meus estudos na área da programação, mas sigo a todo vapor atrás de aprender coisas novas
+🌱 Atualmente estou no início dos meus estudos na área da programação, mas sigo a todo vapor atrás de aprender coisas novas
 
-💞️ Busco me aperfeiçoar e fazer grander parcerias de networking 
+💞️ Busco me aperfeiçoar e fazer grandes parcerias de networking 
 
 📫 Contatos:
 <div>
