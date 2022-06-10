@@ -34,4 +34,4 @@ Estou aprendendo
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoOliveiraSousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
-![snake gif](https://github.com/GustavoOliveiraSousa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GustavoOliveiraSousa/GustavoOliveiraSousa/blob/output/github-contribution-grid-snake.svg)
